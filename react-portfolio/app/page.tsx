@@ -1,5 +1,5 @@
 import { FloatingNav } from "@/components/ui/FloatingNav";
-import Hero from "../components/Hero";
+import Hero from "@/components/Hero";
 import Grid from "@/components/Grid";
 import RecentProjects from "@/components/RecentProjects";
 import { navItems } from "@/data";
