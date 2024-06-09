@@ -14,6 +14,10 @@
   </div>
 
   <h3 align="center">A Modern Next.js Portfolio</h3>
+
+  <a href="https://react-portfolio-taupe-pi.vercel.app/" target="_blank">
+    <img src="https://github.com/aryannaik225/React-Portfolio/blob/main/assets/view-button.svg" alt="Visit Site">
+  </a>
 </div>
 
 ## <a name="introduction">🤖 Introduction</a>
